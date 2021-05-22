@@ -1,4 +1,6 @@
-# Porownywanie czasu wykonania quicksort vs justload
+# Porownywanie czasu wykonania quicksort vs heapsort
+
+pracujemy na 250000 liczbach, wszystkie dodatnie int
 
 by uruchomic w bashu wpisujemy
 ```
